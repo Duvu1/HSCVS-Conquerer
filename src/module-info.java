@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Duvu
+ *
+ */
+module database {
+}
